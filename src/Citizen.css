@@ -1,0 +1,14 @@
+.search-container {
+  margin-bottom: 10px;
+}
+
+.cet-table th,
+.cet-table td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+button {
+  background-color: green;
+  color: white;
+}
